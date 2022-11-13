@@ -1,11 +1,9 @@
 Goals:
 Compile only with vs 2010 and included files in repo
+
 Make the program location independant
 
 Compiling in venv/python
-
-
-
 
 # Hi!
 
