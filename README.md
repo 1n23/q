@@ -1,3 +1,12 @@
+Goals:
+Compile only with vs 2010 and included files in repo
+Make the program location independant
+
+Compiling in venv/python
+
+
+
+
 # Hi!
 
 This is it. Pretty much a history of Farbrausch tools 2001-2011. We've been
